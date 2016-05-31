@@ -1,2 +1,7 @@
 00000
+<<<<<<< HEAD
 22222
+=======
+11111
+>>>>>>> feature1
+Creating a new branch is quick and simple.
